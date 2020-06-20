@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: G.B_Games
+main: me.gabriel.helloworld.Main
+description: My first plugin;
+
+commands:
+  hello:
+    aliases: [hi]
+    description: This is the hello command boys.
